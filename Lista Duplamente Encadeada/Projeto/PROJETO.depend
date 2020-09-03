@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523362270 source:d:\2018\eda\lista duplamente encadeada\projeto\biblistadup.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523363072 source:d:\2018\eda\lista duplamente encadeada\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BibListaDup.h"
+
+1523363144 d:\2018\eda\lista duplamente encadeada\projeto\biblistadup.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
